@@ -1,0 +1,49 @@
+body {
+	width: 930px;
+	margin: auto;
+}
+#header {
+	background-color: black;
+	background: url(header.jpg);
+	color: white;
+	text-align: center;
+	padding: 5px;
+	width: 920px;
+	height: 270px;
+}
+#menu {
+	background-color: #483D8B;
+	clear: both;
+	text-align: center;
+	padding: 15px;
+}
+#menu a{
+	color: white;
+	text-decoration: none;
+	padding: 15px 15px 15px 15px;
+}
+#menu a:hover{
+	color: white;
+	text-decoration: none;
+	background: white;
+}
+#nav {
+	line-height: 30px;
+	background-color: #eeeeee;
+	height: 300px;
+	width: 100px;
+	float: left;
+	padding: 5px;
+}
+#section{
+	width: 350px;
+	float: left;
+	padding: 10px;
+}
+#footer{
+	background-color: black;
+	color: white;
+	clear: both;
+	text-align: center;
+	position: 5px;
+}
